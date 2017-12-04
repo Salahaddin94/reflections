@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
     You can start saving the status of the files inside it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    It is a temporary area where you can choose which files to be commited to the repository, without having to commit all the files.
